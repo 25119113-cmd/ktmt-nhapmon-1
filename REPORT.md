@@ -6,7 +6,7 @@
   - Nguyễn Văn Thành - 25119151
   - Trần Bá Trung Thành - 25119152
   - Nguyễn Thành Long - 25119113
-  - Văn Trần Nhật Minh _25119120
+  - Văn Trần Nhật Minh - 25119120
 
 ## Link Repo
 https://github.com/25119151-sketch/ktmt-nhapmon
